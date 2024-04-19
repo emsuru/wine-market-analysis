@@ -22,5 +22,5 @@ The data used was in SQLite DB, data cleanup and preprocessing was done in Pytho
 
 
 - https://public.tableau.com/app/profile/miruna.suru/viz/WinnieWines-Analysis/WinnieWines-Analysis
-- https://public.tableau.com/app/profile/caroline.van.hoeke/viz/Finaldashboard_17135295078370/FINALdashboard
+- https://public.tableau.com/app/profile/caroline.van.hoeke/viz/Finaldashboard_17135295078370/FINALdashboard?publish=yes
 - https://public.tableau.com/app/profile/danil.zhuravlov/viz/Book1_17132791527830/Dashboard1 
